@@ -1,4 +1,4 @@
-[Clique aqui para ser redirecionado para o respositório do frontEnd.](https://github.com/pfelipe96/backend-ValeMobi/)
+[Clique aqui para ser redirecionado para o respositório do frontEnd.](https://github.com/pfelipe96/frontEnd-ValeMobi/)
 
 # backend-ValeMobi
 Criação do dashBoard para teste de conhecimento
